@@ -15,7 +15,7 @@ Install the `sinatra-activerecord` gem along with one of the database adapters:
 adding this to your `Rakefile`
 
     # require your app file first
-    require 'sinatra-ar-exmple-app'
+    require 'sinatra-ar-example-app'
     require 'sinatra/activerecord/rake'
 
 In terminal, test that it works
